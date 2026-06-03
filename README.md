@@ -1,5 +1,6 @@
-## Hi there 👋
-My name is laxmi
+## Hi there!
+My name is laxmi and I am a data analyst with Masters in Business Analytics from University of Louisville. I transform data into clear, strategic narratives. 
+I have skills in Microsoft Excel, Microsoft Power BI, SQL and Python. Combining a background in product design and business analysis, I connect data to strategy, making sure every insight leads to a clear business decision.
 <!--
 **laxmiadh08/laxmiadh08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
