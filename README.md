@@ -1,7 +1,9 @@
+
+<!--
 ## Hi
 My name is laxmi
 I am a Data Analyst with experience in SQL, Power BI, Python, and Excel, specializing in dashboard development, data modeling, and predictive analytics. Experienced in transforming large datasets into actionable business insights through internships in higher education and public health. Seeking Data Analyst or Business Intelligence Analyst opportunities.
-<!--
+
 **laxmiadh08/laxmiadh08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
